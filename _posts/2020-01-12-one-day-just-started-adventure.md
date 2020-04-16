@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "One day we just started our adventure"
+title:  "Les voies Gnawa au Maroc"
 author: sal
-categories: [ Travel ]
-image: assets/images/15.jpg
+categories: [ Danse ]
+tags: [ Maroc ]
+image: assets/images/3.jpg
 ---
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+"Carnet de voyage" nous transporte, aujourd'hui, physiquement et spirituellement au Maroc. Au cœur des confréries Gnawa entre Essaouira, Casablanca, Marrakech et Fès; la voie Gnawa, mer de connaissances ésotériques et mystiques, avec ses rituels lîla à la tombée de la nuit qui convoquent les esprits et dialoguent avec les êtres invisibles, par la musique, la danse, et la transe. C’est ce monde où les invisibles ont leur place, avec ses codes et ses voies de compréhension que nous dévoile l’ethnomusicologue Jean Pouchelon. 
 
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+> La musique et les rituels gnaouas auraient pour origine les cultes d'adorcisme (possession acceptée et cultivée) sahéliens réadaptés par les descendants des esclaves subsahariens au Maghreb. Ces pratiques ont dû se métamorphoser et adopter l'Islam comme religion pour survivre. Dans certaines régions du Maroc, ces pratiques seront teintées de judaïsme mettant en avant Moïse et la Baraka de certains saints juifs marocains.
+  
+Les gnaoua sont, dès la fin du XIXe siècle, identifiés comme une confrérie religieuse populaire dont les pratiques thérapeutiques seraient l'héritage de cultes mystiques subsahariens transmis par des générations de subsahariens musulmans installés au Maghreb.
 
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. 
+Les rituels s'apparentant aux Gnaoua du Maroc existent aussi en Tunisie et dans l'est de l'Algérie (appelés Stambali et Benga), en Égypte (appelés Zār), et en Algérie sauf dans l'est d'Algérie (appelés Diwan ou Bori Haoussa) se ressemblent sur certains points (attestant ainsi une origine commune) et divergent sur d'autres points du fait des parcours spécifiques que ces groupes rencontreront dans les sociétés d'accueil au cours des siècles. En Libye, ce genre musical existerait dans le Fezzan sous le nom de « Stambali ».
 
-Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
-
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+De même que les ressemblances certaines entre les pratiques rituelles des Gnawa et celles des confréries soufis maghrébines prouvent une véritable parenté spirituelle qui exclut la thèse d'un syncrétisme où une religion extérieure se serait simplement accommodée à une religion dominante. Il s'agit de la constitution complexe et progressive d'une communauté et d'une pratique religieuse, sur une longue période, par « strates diverses et par apports semblables »2. Il est plus judicieux de parler ici, pour répondre à la question des origines de cette communauté et de ses pratiques, d'une « synthèse »3, plutôt que d'une forme d'accommodation, de métissage ou de syncrétisme.  
