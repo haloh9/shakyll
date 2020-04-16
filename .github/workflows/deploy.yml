@@ -1,0 +1,42 @@
+name: Deploy Jekyll to Ionos
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - uses: actions/checkout@v2
+    
+    # Build Jekyll static website
+    - name: Jekyll build
+      uses: jerryjvl/jekyll-build-action@v1
+  
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Wait for the job "build" to finish before running
+    needs: build
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+        
+      # Push with FTP to Ionos server
+      - name: FTP deploy
+        uses: SamKirkland/FTP-Deploy-Action@3.0.0
+        with:
+          ftp-server: ${{ secrets.IONOS_FTP_URL }}
+          ftp-username: ${{ secrets.IONOS_FTP_USER }}
+          ftp-password: ${{ secrets.IONOS_FTP_PASSWORD }}
+          local-dir: _site/
