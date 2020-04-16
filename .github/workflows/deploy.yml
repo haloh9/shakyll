@@ -27,7 +27,8 @@ jobs:
     - name: FTP deploy
       uses: SamKirkland/FTP-Deploy-Action@3.0.0
       with:
-        ftp-server: ${{ secrets.IONOS_FTP_URL }}
+        ftp-server: ${{ secrets.IONOS_FTP_URL }}:22
         ftp-username: ${{ secrets.IONOS_FTP_USER }}
         ftp-password: ${{ secrets.IONOS_FTP_PASSWORD }}
         local-dir: _site/
+        known-hosts: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/tKA7T9UUfVZ4gSGezw3t98UQcWwtHqPildhNL7F4SKhhXJorT01hwqsTVPXz9Emr1IzS9iOvvynqh7N3xSs01qoucho8WeantCVI5H7Vwt00qS8z8BRiYk1WpyzJfUCNUUHSJhF5SJd03uWrP19AhGsqqj7/24IzGhqxN/FqHgHdBRkQB//XlHhw5e03DPkr5jQRlHjSb9lkWily0/meBTkd7lFRC2n0sT/KE4XbjpvQlc2IUIIeWHJfcsJgpaGcDFboN9oV//voE4A0pdAFwE4OByVDZa/ifgXRlT0k5vVS+EaxTtH8idiu6ZV/P7dLMDo7b76KTSxlSixn7hPh 
